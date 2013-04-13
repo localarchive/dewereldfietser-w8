@@ -1,0 +1,13 @@
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bin\Debug\resources.pri
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bin\Debug\AppxManifest.xml
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bin\Debug\De Wereldfietser.build.appxrecipe
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\priconfig.xml
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\layout.resfiles
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\resources.resfiles
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\pri.resfiles
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\LanguageQualifiers.txt
+c:\users\jarno\documents\visual studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\ProjectArchitectures.txt
+C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\priconfig.xml.intermediate
+C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\layout.resfiles.intermediate
+C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\resources.resfiles.intermediate
+C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\bld\Debug\pri.resfiles.intermediate

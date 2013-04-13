@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>R2D2</Machine>
+    <WindowsUser>Jarno</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>47444FF3C8B002CBFF1951C4D62AED71163A124E5C630D47E2975C4F6F304148</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4768f14-f10c-4141-9151-1374fb04546b_1.0.0.0_neutral__dmscx8gnddq82</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c4768f14-f10c-4141-9151-1374fb04546b_dmscx8gnddq82!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c4768f14-f10c-4141-9151-1374fb04546b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jarno</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-23T19:42:33.107</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-12-23T19:41:30.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2012-12-23T19:41:30.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2012-12-23T19:41:30.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2012-12-23T19:41:30.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T14:14:19.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T14:15:32.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T14:17:03.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T14:15:02.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-06-05T20:54:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-12-23T19:41:30.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-12-23T19:41:31.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2012-12-23T19:41:31.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2012-12-23T19:41:30.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2012-12-23T19:41:30.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2012-12-23T19:41:30.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2012-12-23T19:41:30.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2012-12-23T19:41:30.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-12-23T19:41:30.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jarno\Documents\Visual Studio 2012\Projects\De Wereldfietser\De Wereldfietser\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-23T19:42:31.905</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
